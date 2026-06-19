@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama apprev="21010" appversion="7.1.11" hassounds="0" id="node1">
+  <input levelbias="0.400" levelbiashidpi="1.000" width="3250" leveltilesize="510" overlap="1" levelingpitch="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="3250">
+    <level predecode="0" preload="0" width="3250" height="3250"/>
+    <level predecode="0" preload="0" width="1625" height="1625"/>
+    <level predecode="0" preload="0" width="812" height="812"/>
+    <level predecode="1" preload="1" width="406" height="406"/>
+    <preview color="0x808080" strip="1"/>
+  </input>
+  <view pannorth="0" fovmode="2">
+    <start pan="-179.79" projection="4" fov="140.42" tilt="-0.07"/>
+    <flyin pan="-179" projection="9" fov="272.38" tilt="-90"/>
+    <min fovpixel="2" pan="0" tilt="-90"/>
+    <max fovstereographic="330" pan="360" scaletofit="1" fov="140" fovfisheye="360" tilt="90"/>
+  </view>
+  <userdata latitude="" heading="0" copyright="" description="" tags="3-Panoramicas" author="" longitude="" customnodeid="" nodeid="node1" title="" source="" comment="" datetime="26/05/2026 10:49" info=""/>
+  <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+    <label backgroundalpha="1" wordwrap="1" bordercolor="0x000000" width="180" textcolor="0x000000" textalpha="1" enabled="1" borderradius="1" border="1" background="1" borderalpha="1" backgroundcolor="0xffffff" height="20"/>
+    <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+  </hotspots>
+  <media/>
+  <transition zoomin="0" zoomout="0" zoomafterinfov="140" zoomspeed="2" type="crossdissolve" enabled="1" blendcolor="0x000000" delay="none" zoomoutpause="1" blendtime="1" zoomafteroutfov="40" zoomfov="40" softedge="0"/>
+  <autorotate useanimation="1" noderandom="1" nodefilter="" enabled="1" delay="5.00" returntohorizon="0.000" startloaded="0" speed="0.100" horizonfromdefview="0" nodedelay="0.00"/>
+  <flyintransition speed="2.00" enabled="1"/>
+  <animation animsequence="Animation01" clipsrandom="1" syncanimationwithvideo="1" useinautorotation="1"/>
+  <control dblclickfullscreen="0" invertwheel="0" sensitivity="8" zoomcentercursor="1" hideabout="0" lockedmouse="0" simulatemass="1" lockedkeyboard="0" contextfullscreen="1" lockedwheel="0" rubberband="0" contextprojections="0" speedwheel="1" invertcontrol="1" contextvr="1" lockedkeyboardzoom="0"/>
+  <projectuserdata copyright="" description="" comment="" tags="" author="" title=""/>
+</panorama>
